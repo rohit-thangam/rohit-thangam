@@ -206,7 +206,7 @@ class RohitT:
 
 | 🏅 Award | 🏢 Organization | 💰 Prize | 📅 Year |
 |:---|:---|:---:|:---:|
-| 🥇 **South Regional Gold Medal** — IndiaSkills 2025–26 (Heavy Vehicle Technology) | NSDC, Government of India · Selected for IndiaSkills National 2026 | ₹75,000 | Feb 2026 |
+| 🥇 **Nationals Gold Medal** — IndiaSkills 2025–26 (Heavy Vehicle Technology) | NSDC, Government of India · Selected for IndiaSkills National 2026 | ₹1,00,000 | Apr 2026 |
 | 🥇 **State Gold Medal** — TN Skills 2025 (Heavy Vehicle Technology) | TNSDC · Felicitated by Dy. CM of Tamil Nadu | ₹25,000 | Dec 2025 |
 | 🏆 **1st Place** — Cyber Hackathon (Smart Traffic Mgmt) | Thoothukudi District Police, TN Police | ₹70,000 | Apr 2025 |
 | 🥉 **2nd Runner-Up** — Hackfest (Surface Defect Detection) | Axiscades & Mistral Solutions | ₹50,000 | Jul 2023 |
